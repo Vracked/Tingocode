@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tingocode
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning unity game development
